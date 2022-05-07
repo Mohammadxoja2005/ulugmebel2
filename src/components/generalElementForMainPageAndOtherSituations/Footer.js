@@ -17,8 +17,8 @@ function Footer() {
               <div className="single-footer-widget">
                 <div className="footer-logo mb-25">
                   <img
-                    style={{width: "105px"}}
-                    height={40}
+                   style={{width: "200px"}}
+                   height={60}
                     src="assets/img/logo/LOGO789.webp"
                     className="img-fluid"
                     alt=""

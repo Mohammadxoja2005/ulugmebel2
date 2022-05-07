@@ -6,7 +6,6 @@ import Shop from '../shop/Shop';
 import Aos from "aos";  
 // import { BallBeat } from 'react-pure-loaders';
 
-
 const Home = lazy(() => import('../frontendPages/Home'))
 // const Contact = lazy(() => import('../frontendPages/Contact'))
 // const About = lazy(() => import('../frontendPages/About'))

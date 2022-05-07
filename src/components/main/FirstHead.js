@@ -199,10 +199,10 @@ function FirstHead() {
                     <div className="mobile-menu">
                          <div className="mean-bar" style={{height: "41px", marginTop: "16px"}}>
     <Link to="#" className="meanmenu-reveal">
-        <span className="mean-menu-text" style={{top: "-12px"}}>
+        <span className="mean-menu-text" style={{top: "-38px"}}>
           {/* <i className="lnr lnr-text-align-left" /> Меню */}
                 <img
-                        width={80}
+                        width={125}
                         height={40}
                         src="assets/img/logo/LOGO789.webp"
                         className="img-fluid"

@@ -183,7 +183,7 @@ function Header() {
                 <div className="logo">
                   <Link to="/">
                     <img
-                      style={{width: "105px"}}
+                      style={{width: "200px"}}
                       src="assets/img/logo/LOGO789.webp"
                       className="img-fluid"
                       alt=""
