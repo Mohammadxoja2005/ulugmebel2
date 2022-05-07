@@ -51,7 +51,7 @@ function Header() {
     const fakeData = [
       {
         mainTitle: "Добро пожаловать на",
-        announcement: "Ulug' Mebel", 
+        announcement: "MAZZAKAZ", 
         brandName: "мебельный сайт",  
         imgUrl: "assets/img/header/firstshop.webp"
       }, 
